@@ -1,0 +1,451 @@
+[
+  {"number": 1,
+    "president": "George Washington",
+    "birth_year": 1732,
+    "death_year": 1799,
+    "took_office": "1789-04-30",
+    "left_office": "1797-03-04",
+    "party": "No party",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/21.t57d2a704.m1200.tif.pv.xIJGD-tYBMhs9oKXx.jpg"
+  },
+  {
+    "number": 2,
+    "president": "John Adams",
+    "birth_year": 1735,
+    "death_year": 1826,
+    "took_office": "1797-03-04",
+    "left_office": "1801-03-04",
+    "party": "Federalist",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/25.t56cc7220.m1200.tif.pv.xqyO3BUDQVRCU7M1z.jpg"
+  },
+  {
+    "number": 3,
+    "president": "Thomas Jefferson",
+    "birth_year": 1743,
+    "death_year": 1826,
+    "took_office": "1801-03-04",
+    "left_office": "1809-03-04",
+    "party": "Democratic-Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/55.t56cc711f.m1200.tif.pv.xuc5U4w4IKXHN6Jqm.jpg"
+  },
+  {
+    "number": 4,
+    "president": "James Madison",
+    "birth_year": 1751,
+    "death_year": 1836,
+    "took_office": "1809-03-04",
+    "left_office": "1817-03-04",
+    "party": "Democratic-Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/24.t56cc7323.m1200.tif.pv.xaAeUxOc1yXTGKqXK.jpg"
+  },
+  {
+    "number": 5,
+    "president": "James Monroe",
+    "birth_year": 1758,
+    "death_year": 1831,
+    "took_office": "1817-03-04",
+    "left_office": "1825-03-04",
+    "party": "Democratic-Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/31.t56cc6f75.m1200.tif.pv.xZBy5Sw_4TIQDaE-N.jpg"
+  },
+  {
+    "number": 6,
+    "president": "John Quincy Adams",
+    "birth_year": 1767,
+    "death_year": 1848,
+    "took_office": "1825-03-04",
+    "left_office": "1829-03-04",
+    "party": "Democratic-Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Presidents/John%20Quincy%20Adams/33.t587524cc.m1200.tif.pv.xFEW8SazVECeeGrPQ.jpg"
+  },
+  {
+    "number": 7,
+    "president": "Andrew Jackson",
+    "birth_year": 1767,
+    "death_year": 1845,
+    "took_office": "1829-03-04",
+    "left_office": "1837-03-04",
+    "party": "Democratic",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Presidents/Andrew%20Jackson/4.t589396d0.m1200.tif.pv.xMGpk3TnfHMcm651K.jpg"
+  },
+  {
+    "number": 8,
+    "president": "Martin Van Buren",
+    "birth_year": 1782,
+    "death_year": 1862,
+    "took_office": "1837-03-04",
+    "left_office": "1841-03-04",
+    "party": "Democratic",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Presidents/Martin%20Van%20Buren/40.t587524d5.m1200.tif.pv.xoM9tWo__uYkNcssH.jpg"
+  },
+  {
+    "number": 9,
+    "president": "William Henry Harrison",
+    "birth_year": 1773,
+    "death_year": 1841,
+    "took_office": "1841-03-04",
+    "left_office": "1841-04-04",
+    "party": "Whig",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/60.t56cc6f8a.m1200.tif.pv.xHNgsBZpzXYjZtoN4.jpg"
+  },
+  {
+    "number": 10,
+    "president": "John Tyler",
+    "birth_year": 1790,
+    "death_year": 1862,
+    "took_office": "1841-04-04",
+    "left_office": "1845-03-04",
+    "party": "Whig",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Presidents/John%20Tyler/659.t587525c0.m1200.tif.pv.xIxtT7bfs5FcnPQpx.jpg"
+  },
+  {
+    "number": 11,
+    "president": "James K. Polk",
+    "birth_year": 1795,
+    "death_year": 1849,
+    "took_office": "1845-03-04",
+    "left_office": "1849-03-04",
+    "party": "Democratic",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/30.t56cc6f74.m1200.tif.pv.xn7Efq5dLqWY9xrQ6.jpg"
+  },
+  {
+    "number": 12,
+    "president": "Zachary Taylor",
+    "birth_year": 1784,
+    "death_year": 1850,
+    "took_office": "1849-03-04",
+    "left_office": "1850-07-09",
+    "party": "Whig",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/64.t56cc6f81.m1200.tif.pv.x4OuWLw7mfSEzfQZ3.jpg"
+  },
+  {
+    "number": 13,
+    "president": "Millard Fillmore",
+    "birth_year": 1800,
+    "death_year": 1874,
+    "took_office": "1850-07-09",
+    "left_office": "1853-03-04",
+    "party": "Whig",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/38.t56cc731c.m1200.tif.pv.xc2J3nTNEBuJIYeL4.jpg"
+  },
+  {
+    "number": 14,
+    "president": "Franklin Pierce",
+    "birth_year": 1804,
+    "death_year": 1869,
+    "took_office": "1853-03-04",
+    "left_office": "1857-03-04",
+    "party": "Democratic",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/14.t56cc7277.m1200.tif.pv.xru6DciuUPzjMfqAN.jpg"
+  },
+  {
+    "number": 15,
+    "president": "James Buchanan",
+    "birth_year": 1791,
+    "death_year": 1868,
+    "took_office": "1857-03-04",
+    "left_office": "1861-03-04",
+    "party": "Democratic",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/122.t56cc6f59.m1200.tif.pv.xHifkM94e5OXV8hd4.jpg"
+  },
+  {
+    "number": 16,
+    "president": "Abraham Lincoln",
+    "birth_year": 1809,
+    "death_year": 1865,
+    "took_office": "1861-03-04",
+    "left_office": "1865-04-15",
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/5.t56cc728c.m1200.tif.pv.xxjJrRtM_4Rj31Hkk.jpg"
+  },
+  {
+    "number": 17,
+    "president": "Andrew Johnson",
+    "birth_year": 1808,
+    "death_year": 1875,
+    "took_office": "1865-04-15",
+    "left_office": "1869-03-04",
+    "party": "Democratic",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/3.t56cc7093.m1200.tif.pv.xhfXervRIPb97bUxN.jpg"
+  },
+  {
+    "number": 18,
+    "president": "Ulysses S. Grant",
+    "birth_year": 1822,
+    "death_year": 1885,
+    "took_office": "1869-03-04",
+    "left_office": "1877-03-04",
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/57.t56cc707a.m1200.tif.pv.xPdLP3VdYwULf7rXD.jpg"
+  },
+  {
+    "number": 19,
+    "president": "Rutherford B. Hayes",
+    "birth_year": 1822,
+    "death_year": 1893,
+    "took_office": "1877-03-04",
+    "left_office": "1881-03-04",
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/45.t56cc6f4f.m1200.tif.pv.xcqiFT4bEyB2lHKKL.jpg"
+  },
+  {
+    "number": 20,
+    "president": "James A. Garfield",
+    "birth_year": 1831,
+    "death_year": 1881,
+    "took_office": "1881-03-04",
+    "left_office": "1881-09-19",
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/80.t56cc70bf.m1200.tif.pv.x2-iCCR-jfYsEOle0.jpg"
+  },
+  {
+    "number": 21,
+    "president": "Chester A. Arthur",
+    "birth_year": 1829,
+    "death_year": 1886,
+    "took_office": "1881-09-19",
+    "left_office": "1885-03-04",
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/7.t56cc7067.m1200.tif.pv.xFW5V43z-Da7odhsJ.jpg"
+  },
+  {
+    "number": 22,
+    "president": "Grover Cleveland",
+    "birth_year": 1837,
+    "death_year": 1908,
+    "took_office": "1885-03-04",
+    "left_office": "1889-03-04",
+    "party": "Democratic",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/16.t56cc7218.m1200.tif.pv.xN4Wt1DLmIi-Fu3wL.jpg"
+  },
+  {
+    "number": 23,
+    "president": "Benjamin Harrison",
+    "birth_year": 1833,
+    "death_year": 1901,
+    "took_office": "1889-03-04",
+    "left_office": "1893-03-04",
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Presidents/Benjamin%20Harrison/6.t58a34bba.m1200.tif.pv.xn7NR9s1rOG1LnVMb.jpg"
+  },
+  {
+    "number": 24,
+    "president": "Grover Cleveland",
+    "birth_year": 1837,
+    "death_year": 1908,
+    "took_office": "1893-03-04",
+    "left_office": "1897-03-04",
+    "party": "Democratic",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/62.t56cc6f46.m1200.tif.pv.xirZ0cScyQEM5V6D4.jpg"
+  },
+  {
+    "number": 25,
+    "president": "William McKinley",
+    "birth_year": 1843,
+    "death_year": 1901,
+    "took_office": "1897-03-04",
+    "left_office": "1901-09-14",
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/62.t56cc6f46.m1200.tif.pv.xirZ0cScyQEM5V6D4.jpg"
+  },
+  {
+    "number": 26,
+    "president": "Theodore Roosevelt",
+    "birth_year": 1858,
+    "death_year": 1919,
+    "took_office": "1901-09-14",
+    "left_office": "1909-03-04",
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/56.t57d2adaa.m1200.tif.pv.xLpMIy8xkCFmXWx9h.jpg"
+  },
+  {
+    "number": 27,
+    "president": "William Howard Taft",
+    "birth_year": 1857,
+    "death_year": 1930,
+    "took_office": "1909-03-04",
+    "left_office": "1913-03-04",
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/120.t56cc7314.m1200.tif.pv.xWEmGC6SNr-81F6cW.jpg"
+  },
+  {
+    "number": 28,
+    "president": "Woodrow Wilson",
+    "birth_year": 1856,
+    "death_year": 1924,
+    "took_office": "1913-03-04",
+    "left_office": "1921-03-04",
+    "party": "Democratic",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/63.t56e074e5.m1200.tif.pv.x6xwjH7-CT2mbdsfL.jpg"
+  },
+  {
+    "number": 29,
+    "president": "Warren G. Harding",
+    "birth_year": 1865,
+    "death_year": 1923,
+    "took_office": "1921-03-04",
+    "left_office": "1923-08-02",
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Presidents/Warren%20G%20Harding/59.t585a71aa.m1200.tif.pv.x3yDFALGx_Isj0lXB.jpg"
+  },
+  {
+    "number": 30,
+    "president": "Calvin Coolidge",
+    "birth_year": 1872,
+    "death_year": 1933,
+    "took_office": "1923-08-02",
+    "left_office": "1929-03-04",
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/8.t56cc732c.m1200.tif.pv.xynI1V-Z4iIldTCsA.jpg"
+  },
+  {
+    "number": 31,
+    "president": "Herbert Hoover",
+    "birth_year": 1874,
+    "death_year": 1964,
+    "took_office": "1929-03-04",
+    "left_office": "1933-03-04",
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/22.t56cc7222.m1200.tif.pv.xqFK3U-77X9tUxq01.jpg"
+  },
+  {
+    "number": 32,
+    "president": "Franklin D. Roosevelt",
+    "birth_year": 1882,
+    "death_year": 1945,
+    "took_office": "1933-03-04",
+    "left_office": "1945-04-12",
+    "party": "Democratic",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/13.t56cc730c.m1200.tif.pv.xD0eXUnIc2TfPD1OH.jpg"
+  },
+  {
+    "number": 33,
+    "president": "Harry S. Truman",
+    "birth_year": 1884,
+    "death_year": 1972,
+    "took_office": "1945-04-12",
+    "left_office": "1953-01-20",
+    "party": "Democratic",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/23.t56cc7168.m1200.tif.pv.xftgioqFJciKtzlQT.jpg"
+  },
+  {
+    "number": 34,
+    "president": "Dwight D. Eisenhower",
+    "birth_year": 1890,
+    "death_year": 1969,
+    "took_office": "1953-01-20",
+    "left_office": "1961-01-20",
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/11.t56cc7074.m1200.tif.pv.xwJedJABjDXyvNg3S.jpg"
+  },
+  {
+    "number": 35,
+    "president": "John F. Kennedy",
+    "birth_year": 1917,
+    "death_year": 1963,
+    "took_office": "1961-01-20",
+    "left_office": "1963-11-22",
+    "party": "Democratic",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/29.t56cc707c.m1200.tif.pv.xSwKmn5P7s-RsA26H.jpg"
+  },
+  {
+    "number": 36,
+    "president": "Lyndon B. Johnson",
+    "birth_year": 1908,
+    "death_year": 1973,
+    "took_office": "1963-11-22",
+    "left_office": "1969-01-20",
+    "party": "Democratic",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/37.t56cc734d.m1200.tif.pv.xXkz6vWyQHY2-qPER.jpg"
+  },
+  {
+    "number": 37,
+    "president": "Richard Nixon",
+    "birth_year": 1913,
+    "death_year": 1994,
+    "took_office": "1969-01-20",
+    "left_office": "1974-08-09",
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/121.t56cc7342.m1200.tif.pv.xnxUU9hs1CS0qRqUc.jpg"
+  },
+  {
+    "number": 38,
+    "president": "Gerald Ford",
+    "birth_year": 1913,
+    "death_year": 2006,
+    "took_office": "1974-08-09",
+    "left_office": "1977-01-20",
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/20.t56cc7142.m1200.tif.pv.xOG0OZh6zcdwzQIwk.jpg"
+  },
+  {
+    "number": 39,
+    "president": "Jimmy Carter",
+    "birth_year": 1924,
+    "death_year": null,
+    "took_office": "1977-01-20",
+    "left_office": "1981-01-20",
+    "party": "Democratic",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/28.t56cc7334.m1200.tif.pv.x51MSG165-X3jEW5X.jpg"
+  },
+  {
+    "number": 40,
+    "president": "Ronald Reagan",
+    "birth_year": 1911,
+    "death_year": 2004,
+    "took_office": "1981-01-20",
+    "left_office": "1989-01-20",
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/48.t56dee88e.m1200.tif.pv.xOFZmeH16lVIJ3a6s.jpg"
+  },
+  {
+    "number": 41,
+    "president": "George H. W. Bush",
+    "birth_year": 1924,
+    "death_year": 2018,
+    "took_office": "1989-01-20",
+    "left_office": "1993-01-20",
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/15.t56cc6f71.m1200.tif.pv.xkqqFA-IcN7nCG4Nr.jpg"
+  },
+  {
+    "number": 42,
+    "president": "Bill Clinton",
+    "birth_year": 1946,
+    "death_year": null,
+    "took_office": "1993-01-20",
+    "left_office": "2001-01-20",
+    "party": "Democratic",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/6196.t56cc6f4d.m1200.tif.pv.xbH42_m6pudq8e5aK.jpg"
+  },
+  {
+    "number": 43,
+    "president": "George W. Bush",
+    "birth_year": 1946,
+    "death_year": null,
+    "took_office": "2001-01-20",
+    "left_office": "2009-01-20",
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/9897.t56cc7215.m1200.tif.pv.xyJdQgF77PgBoAgAk.jpg"
+  },
+  {
+    "number": 44,
+    "president": "Barack Obama",
+    "birth_year": 1961,
+    "death_year": null,
+    "took_office": "2009-01-20",
+    "left_office": "2017-01-20",
+    "party": "Democratic",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/10094.t56cc7156.m1200.tif.pv.xaO-XacAEzM2ogcrN.jpg"
+  },
+  {
+    "number": 45,
+    "president": "Donald J. Trump",
+    "birth_year": 1946,
+    "death_year": null,
+    "took_office": "2017-01-20",
+    "left_office": null,
+    "party": "Republican",
+    "image": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/1116564.t5a282d04.m1200.x7uxOTASZuzpeF5ql.jpg"
+  }
+]
