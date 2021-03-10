@@ -66,7 +66,6 @@ class PresidentDetailViewController: UIViewController{
                     self?.delegate?.imagereturn(type: image, index: index)
                 }
             }
-            print("PLM ce se intapla")
         }
 
         partyimage.image = UIImage(named: partynume)
